@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Printer Trace" width="180" style="border-radius: 16px;"/>
+<img src="./logo.png" alt="Printer Trace" width="180"/>
 
 # Printer Trace
 
@@ -34,7 +34,21 @@ Intelligent solutions that apply artificial intelligence to documentation, data 
 
 ## Technology
 
-`PHP` · `Laravel` · `MySQL` · `JavaScript` · `Python` · `Artificial Intelligence`
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/php" height="38" alt="PHP"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/laravel" height="38" alt="Laravel"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" height="38" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" height="38" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python" height="38" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai" height="38" alt="Artificial Intelligence"/>
+
+</div>
 
 ## Vision
 
