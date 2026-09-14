@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Printer Trace.png" alt="Printer Trace" width="180"/>
+<img src="./logo.png" alt="Printer Trace" width="180" style="border-radius: 16px;"/>
 
 # Printer Trace
 
