@@ -42,11 +42,6 @@ Intelligent solutions that apply artificial intelligence to documentation, data 
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql" height="38" alt="MySQL"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" height="38" alt="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python" height="38" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai" height="38" alt="Artificial Intelligence"/>
 
 </div>
 
